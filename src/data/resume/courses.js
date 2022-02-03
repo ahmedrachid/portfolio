@@ -8,7 +8,7 @@ const courses = [
   {
     title: 'FinancialBERT - A Pretrained Language Model for Financial Text Mining',
     number: '2',
-    link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005633',
+    link: 'https://www.researchgate.net/publication/358284785_FinancialBERT_-_A_Pretrained_Language_Model_for_Financial_Text_Mining',
     university: '',
   },
 ];
