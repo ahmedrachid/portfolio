@@ -48,7 +48,7 @@ const skills = [
     category: ['Databases'],
   },
   {
-    title: 'PostgreSQL/SQLite3/SQL',
+    title: 'PostgreSQL/SQLite3/SQL Server',
     competency: 4,
     category: ['Databases'],
   },
@@ -73,11 +73,6 @@ const skills = [
     category: ['Data Visualization'],
   },
   {
-    title: 'D3',
-    competency: 2,
-    category: ['Data Visualization'],
-  },
-  {
     title: 'Flask',
     competency: 4,
     category: ['Python'],
@@ -91,11 +86,6 @@ const skills = [
     title: 'Kubernetes',
     competency: 4,
     category: ['Tools'],
-  },
-  {
-    title: 'GCP',
-    competency: 2,
-    category: ['Cloud'],
   },
   {
     title: 'Numpy',
@@ -149,19 +139,9 @@ const skills = [
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Gensim',
-    competency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
     title: 'NLTK',
     competency: 4,
     category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'R',
-    competency: 2,
-    category: ['Languages'],
   },
   {
     title: 'SQL',
@@ -171,11 +151,6 @@ const skills = [
   {
     title: 'Dash Plotly',
     competency: 5,
-    category: ['Data Visualization'],
-  },
-  {
-    title: 'Seaborn',
-    competency: 4,
     category: ['Data Visualization'],
   },
   {
