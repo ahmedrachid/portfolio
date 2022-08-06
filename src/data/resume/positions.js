@@ -5,11 +5,14 @@ const positions = [
     link: 'https://global.brother/en',
     daterange: 'September 2021 - Present',
     points: [
-      'Build ETL processes for high-volume streaming data.',
-      'Create predictive models and machine learning algorithms as solutions to business requirements.',
-      'Develop data-driven solutions by means of the cutting edge machine learning technologies.',
+      'Design, build and launch extremely efficient and reliable data pipelines for data migration.',
+      'Created Airflow DAGs to schedule the ingestions, ETL jobs and various business reports.',
+      'Implementation of Snowflake & Matillion Cloud data platform.',
+      'Design table structures and define ETL strategy to build performant Data solutions that are reliable and scalable in a fast growing data ecosystem.',
+      'Automation of data pipelines, making datasets readily-consumable by visualization tools.',
+      'Support Production Environment and debug issues.',
       'Build production, on-line, end-to-end optimized machine learning pipelines.',
-      'Design micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, deployment, and reporting.',
+      'Technical Stack: Python (PySpark, Pandas, Numpy, Flask, Dash Plotly), SQL ( PostgreSQL, SQL Server), Spark, Airflow, AWS (S3, Athena, ECS), Snowflake, Matillion, Git, Docker, Kubernetes, Bash.',
     ],
   },
   {
@@ -18,11 +21,14 @@ const positions = [
     link: 'https://www.avivainvestors.com/en-gb/',
     daterange: 'September 2019 - September 2021',
     points: [
+      'Build robust and scalable data integration (ETL) pipelines using SQL, Python and Spark.',
+      'Implemented complex acquisition and transformation workflows.',
       'Build NLP and Deep learning models to quantify positive, negative or neutral News and Research reports about stocks.',
       'Text analysis and build NER model to recognize named entities in financial texts.',
       'Quantify news with Topic Modeling for trading volume forecasting and Events detection.',
       'Time series analysis and build pair quantitative finance trading strategy by applying back-testing.',
       'Create an interactive dashboard to show insights of market and detect new opportunities.',
+      'Technical Stack: Python (PySpark, Pandas, Numpy, Sklearn, Tensorflow, Transformers, Dash, Flask), SQL (SQL Server), NoSQL (MongoDB), Git, Docker.',
     ],
   },
   {
