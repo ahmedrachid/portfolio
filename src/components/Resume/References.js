@@ -6,7 +6,7 @@ const References = () => (
     <div className="title">
       <h3>Certifications</h3>
     </div>
-     <article className="degree-container">
+    <article className="degree-container">
       <header>
         <h4 className="degree">SnowPro Core Certification</h4>
         <p className="school"><a href="https://www.credly.com/earner/earned/badge/bb6d3136-fc82-4b17-9f7e-67529dc41f83">Snowflake</a>, 2021</p>
