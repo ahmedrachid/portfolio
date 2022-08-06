@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'Brother France',
-    position: 'Data Scientist',
+    position: 'Data Engineer',
     link: 'https://global.brother/en',
     daterange: 'September 2021 - Present',
     points: [
@@ -17,7 +17,7 @@ const positions = [
   },
   {
     company: 'Aviva Investors',
-    position: 'Data Scientist',
+    position: 'Data Scientist & Engineer',
     link: 'https://www.avivainvestors.com/en-gb/',
     daterange: 'September 2019 - September 2021',
     points: [
