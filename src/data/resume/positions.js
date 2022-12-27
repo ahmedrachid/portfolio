@@ -5,6 +5,7 @@ const positions = [
     link: 'https://vmware.com/',
     daterange: 'December 2022 - Present',
     points: [
+       '',
     ],
   },
   {
