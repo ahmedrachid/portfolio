@@ -9,7 +9,7 @@ const References = () => (
     <article className="degree-container">
       <header>
         <h4 className="degree">SnowPro Core Certification</h4>
-        <p className="school"><a href="https://www.credly.com/earner/earned/badge/bb6d3136-fc82-4b17-9f7e-67529dc41f83">Snowflake</a>, 2021</p>
+        <p className="school"><a href="https://www.credly.com/earner/earned/badge/bb6d3136-fc82-4b17-9f7e-67529dc41f83">Snowflake</a>, 2022</p>
       </header>
     </article>
     <article className="degree-container">
@@ -39,7 +39,7 @@ const References = () => (
     <article className="degree-container">
       <header>
         <h4 className="degree">Matillion Associate Certification</h4>
-        <p className="school"><a href="https://www.credly.com/badges/24c9aaae-33b6-4b16-a68c-503b30a0d912/linked_in_profile">Matillion</a>, 2020</p>
+        <p className="school"><a href="https://www.credly.com/badges/24c9aaae-33b6-4b16-a68c-503b30a0d912/linked_in_profile">Matillion</a>, 2022</p>
       </header>
     </article>
   </div>
