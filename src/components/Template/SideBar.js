@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Ahmed Rachid.
         I am a Data Engineer & Scientist at <a href="https://www.vmware.com">VMware</a>. Before that, I was
-        at <a href="https://www.avivainvestors.com/en-gb/">Aviva Investors </a>
+        at <a href="https://global.brother/en">Brother Industries</a>, <a href="https://www.avivainvestors.com/en-gb/">Aviva Investors </a>
         and <a href="https://www.lissi.fr/home/">Laboratoire LISSI</a>.
       </p>
       <ul className="actions">
