@@ -19,7 +19,7 @@ const About = () => (
     <article className="post markdown" id="about">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/about">Hello! It’s nice to meet you</Link></h2>
+          <h2 data-testid="heading"><Link to="/about">Hello! Nice to meet you</Link></h2>
         </div>
       </header>
       <ReactMarkdown
