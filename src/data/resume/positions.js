@@ -1,9 +1,17 @@
 const positions = [
+   {
+    company: 'VMware',
+    position: 'Data Engineer & Scientist',
+    link: 'https://vmware.com/',
+    daterange: 'December 2022 - Present',
+    points: [
+    ],
+  },
   {
     company: 'Brother France',
     position: 'Data Engineer',
     link: 'https://global.brother/en',
-    daterange: 'September 2021 - Present',
+    daterange: 'September 2021 - December 2022',
     points: [
       'Design, build and launch extremely efficient and reliable data pipelines for data migration.',
       'Created Airflow DAGs to schedule the ingestions, ETL jobs and various business reports.',
