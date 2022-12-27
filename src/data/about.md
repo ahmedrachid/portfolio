@@ -1,11 +1,10 @@
 
 # Intro
-I am currently a Data Engineer at [VMware Tanzu](https://www.vmware.com) where I build data-pipelines & ETLs for predictive modeling & business intelligence. I received my M.S. Data Science from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Enthusiastic about leveraging Big Data tools to develop extremely efficient and reliable data pipelines for large-scale problems.
+I am currently a Data Engineer & Scientist at [VMware Tanzu](https://www.vmware.com) implementing a wide range of Data products, technologies, and solutions for our clients. I received my M.S. Data Science from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). Enthusiastic about leveraging Data Science & Big Data tools to develop extremely efficient and reliable data pipelines for large-scale problems.
 <br/><br/>
 
-I also have a strong interest in Data Science and have worked previously at [Aviva Investors](https://www.avivainvestors.com/en-gb/) on financial quantitative data science projects in Quantitative Research team.
 
-# Research Interests
+# Interests
 
 - Data Engineering / Big Data.
 - Data Science.
