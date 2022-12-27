@@ -36,6 +36,12 @@ const References = () => (
         <p className="school"><a href="https://www.credly.com/badges/9ee7953c-d277-43b1-bdd9-bb6a493ee8f8">The Linux Foundation</a>, 2020</p>
       </header>
     </article>
+    <article className="degree-container">
+      <header>
+        <h4 className="degree">Matillion Associate Certification</h4>
+        <p className="school"><a href="https://www.credly.com/badges/24c9aaae-33b6-4b16-a68c-503b30a0d912/linked_in_profile">Matillion</a>, 2020</p>
+      </header>
+    </article>
   </div>
 
 );
