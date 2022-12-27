@@ -1,11 +1,11 @@
 const positions = [
-   {
+  {
     company: 'VMware',
     position: 'Data Engineer & Scientist',
     link: 'https://vmware.com/',
     daterange: 'December 2022 - Present',
     points: [
-       'Working on VMware Tanzu Data products',
+      'Working on VMware Tanzu Data products',
     ],
   },
   {
